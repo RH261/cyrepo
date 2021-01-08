@@ -3,11 +3,11 @@ Name: WhatsApp pr0ject zer0
 Version: 1.0
 Architecture: iphone-os-arm
 Description: The ultimate WhatsApp spam bot
-Maintainer: ryanlharper261@gmail.com
-Author: Ryan Harper
+Maintainer: Ryan <ryanlharper261@gmail.com>
+Author: Ryan Harper <ryanlharper261@gmail.com>
 Section: Tweak
 Depends: 
-Filename: harper.deb
+Filename: debs/harper.deb
 Size: 
 MD5sum: 
 SHA1: 
