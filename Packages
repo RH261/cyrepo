@@ -1,0 +1,14 @@
+Package: com.harper.wsp
+Name: WhatsApp pr0ject zer0
+Version: 1.0
+Architecture: iphone-os-arm
+Description: The ultimate WhatsApp spam bot
+Maintainer: ryanlharper261@gmail.com
+Author: Ryan Harper
+Section: Tweak
+Depends: 
+Filename: harper.deb
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
